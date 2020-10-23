@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=PFfZE06_Nb0&t=1s
+https://www.youtube.com/watch?v=TZ6sYoZ3m_U&t=1396s
+
+https://medium.com/@matheusarendthunsche/come%C3%A7ando-com-o-boss-72aad9bcc13
+
+https://github.com/HashLoad/boss/releases
+boss update na pasta server\trunk\Sample\horse
+
+gerador de entidades do banco de dado
+https://github.com/andersonlugarinhoramos/geradorsimpleorm
+
+templates web
+https://www.creative-tim.com/
+https://www.creative-tim.com/product/argon-dashboard-pro-react
+https://demos.creative-tim.com/argon-dashboard-react/?_ga=2.73716818.1572978288.1603471579-1219322700.1603207739#/documentation/quick-start
+apos baixar rodar o npm install
+npm start
+npm update
+
+npm install axios
